@@ -30,7 +30,17 @@ The repository currently contains the following folder:
 │   ├── Right-Angled_Number_Pyramid.cpp
 │   ├── Right-Angled_Number_Pyramid_2.cpp
 │   ├── Right-Angled_Triangle_Pattern.cpp
-│   └── Star_Pyramid.cpp
+│   ├── Star_Pyramid.cpp
+│   ├── decreasing_letters_triangle_pattern.cpp
+│   ├── folderizer.py
+│   ├── increasing_letters_triangle_pattern.cpp
+│   ├── letter_pyramid_pattern.cpp
+│   ├── number_void_pattern.cpp
+│   ├── PATTERNS_README.md
+│   ├── repetative_increasing_letters_triangle_pattern.cpp
+│   ├── reverse_letter_triangle_pattern.cpp
+│   ├── Symmetric_butterfly_Pattern.cpp
+│   ├── Symmetric_Void_Pattern.cpp
 │
 └── 📄 README.md
 ```
