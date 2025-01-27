@@ -32,7 +32,6 @@ The repository currently contains the following folder:
 │   ├── Right-Angled_Triangle_Pattern.cpp
 │   ├── Star_Pyramid.cpp
 │   ├── decreasing_letters_triangle_pattern.cpp
-│   ├── folderizer.py
 │   ├── increasing_letters_triangle_pattern.cpp
 │   ├── letter_pyramid_pattern.cpp
 │   ├── number_void_pattern.cpp
