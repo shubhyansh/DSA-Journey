@@ -70,7 +70,7 @@ As I progress, I will be adding more folders and topics to this repository. Stay
 
 | Topic     | Problems Solved |
 |-----------|-----------------|
-| Patterns  | 13              |
+| Patterns  | 24              |
 
 ---
 
@@ -78,11 +78,11 @@ As I progress, I will be adding more folders and topics to this repository. Stay
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/My-DSA-Journey-in-Cpp.git
+   git clone https://github.com/shubhyansh/DSA-Journey.git
    ```
 2. **Navigate to a Topic**:
    ```bash
-   cd My-DSA-Journey-in-Cpp/Patterns
+   cd DSA-Journey/Patterns
    ```
 3. **Run Code**:
    ```bash
@@ -117,9 +117,9 @@ A big thank you to the coding community and STRIVER for creating and sharing suc
 
 ## 📬 Connect with Me
 
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- **Email**: your.email@example.com
+- **GitHub**: (https://github.com/shubhyansh)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/shubhyansh-rai-749911136/)
+- **Email**: shubhayansh@gmail.com
 
 ---
 
