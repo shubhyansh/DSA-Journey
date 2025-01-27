@@ -117,8 +117,8 @@ A big thank you to the coding community and STRIVER for creating and sharing suc
 
 ## 📬 Connect with Me
 
-- **GitHub**: (https://github.com/shubhyansh)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/shubhyansh-rai-749911136/)
+- **GitHub**: https://github.com/shubhyansh
+- **LinkedIn**: https://www.linkedin.com/in/shubhyansh-rai-749911136/
 - **Email**: shubhayansh@gmail.com
 
 ---
